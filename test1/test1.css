@@ -1,0 +1,51 @@
+.conteiner{
+    margin: 0 auto;
+    display: block;
+    width: 80%;
+}
+    .tbl{
+    margin: 0 auto;
+    display: block;
+    width: 80%;
+    text-align: center;
+    
+}
+table, th, td {
+    border: 1px solid black;
+}
+    
+img{
+    width: 90px;
+}
+#dlt{
+    background-color: rgb(201, 51, 51);
+    right: 180px;
+}
+#buy{
+    background-color: blue;
+}
+.label {
+    font-weight: bold;
+  }
+  .product-details {
+    border-collapse: collapse;
+    border-color: aqua;
+    margin: 0 auto;
+  }
+  
+  .product-details td {
+    padding: 10px;
+    border: 10px solid #968282;
+  }
+  
+  .card-input {
+    width: 200px;
+  }
+  .submit-button{
+    background-color:red;
+    margin: 0 auto;
+    display: block;
+    width: 80px;
+    
+
+  }
